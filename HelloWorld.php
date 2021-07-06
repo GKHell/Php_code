@@ -22,6 +22,12 @@
 			$a = 10; // int data
 
 			echo "<br>".var_dump($a); # int 
+			echo "-----------------------------<br>";
+
+			$name  = "Rio";
+			$roll = 32;
+			echo "name : $name<br/>";
+			echo "roll : $roll";
 
 	?>
 </body>
