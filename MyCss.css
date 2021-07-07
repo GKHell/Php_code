@@ -1,0 +1,11 @@
+
+body{
+
+	background: linear-gradient(to right,#000000,#303030);
+	color: white;
+	font-size: 40px;
+	font-family: z003;
+}
+div{
+	background: linear-gradient(to right,#111111,#202020);
+}
