@@ -25,7 +25,6 @@
 			
 				echo "<p style='color:red;'>$a + $b = ".$a+$b;
 				 
-
 			}
 		?>
 </body>
